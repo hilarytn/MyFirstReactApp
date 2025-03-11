@@ -24,6 +24,6 @@ This project is my first exploration into building a basic dashboard page using 
    ```bash
    git clone <repository-url>
    cd react-dashboard-app
-npm install
-npm run dev
-```
+   npm install
+   npm run dev
+   ```
