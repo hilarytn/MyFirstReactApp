@@ -22,7 +22,7 @@ This project is my first exploration into building a basic dashboard page using 
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/hilarytn/MyFirstReactApp.git>
    cd react-dashboard-app
    npm install
    npm run dev
