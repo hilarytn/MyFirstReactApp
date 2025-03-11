@@ -24,6 +24,10 @@ This project is my first exploration into building a basic dashboard page using 
    ```bash
    git clone <https://github.com/hilarytn/MyFirstReactApp.git>
    cd react-dashboard-app
+   ```
+2. **Install Dependencies:**
+
+   ```bash
    npm install
    npm run dev
    ```
